@@ -1,0 +1,1 @@
+# FundamentosDeEstrat-giaDeNeg-cios
