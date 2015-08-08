@@ -15,5 +15,11 @@ Temos um esquema simples que caracteriza a estrategia de uma empresa.<br>
 <p align="center">
   <img src="esq.png"/>
 </p>
-<br><strong>Misão estratégica:</strong>
+<br><strong>Misão estratégica:</strong> Valores da empresa, seu propósito. Qual o seu objetivo, o que ela busca alcançar? Ela também define o escopo de suas operações. Em quais mercados a empresa vai operar, não só em termos de tecnologias e produtos, mas também termos geográficos. Somos uma companhia global ou somos uma 
+companhia talvez focada somente no Brasil ou em alguma região ou algo semelhante?
+<br><br><strong>Planejamento estratégico</strong> Para apoiar a missão estratégica temos a ideia do planejamento estratégico ou do plano de negócio ou ainda do modelo de negócios. Como a empresa vai se posicionar em um 
+mercado competitivo e como vai potencializar seus recursos internos e capacidades para cumprir sua missão. 
+<br><br><strong>Ações estratégicas:</strong>  Essa é a questão decisiva. Ações individuais tomadas pela empresa, 
+para desenvolver seu plano estratégico e alcançar sua missão estratégica. Isso é tudo para uma fusão e aquisição. Talvez uma forma de diversificar para novos mercados por meio da aquisição de um concorrente naquele espaço. Isso poderia ser também algo como alianças com vários parceiros. Pode ser também uma estratégia de desenvolvimento 
+de um novo produto. No caso da Apple que já conhecemos, apresentar o iPod como um novo produto no mercado.
 
