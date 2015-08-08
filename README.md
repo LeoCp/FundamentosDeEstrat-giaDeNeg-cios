@@ -1,1 +1,1 @@
-# FundamentosDeEstrat-giaDeNeg-cios
+# Anotações
