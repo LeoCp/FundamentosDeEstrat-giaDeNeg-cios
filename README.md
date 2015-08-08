@@ -21,5 +21,6 @@ companhia talvez focada somente no Brasil ou em alguma região ou algo semelhant
 mercado competitivo e como vai potencializar seus recursos internos e capacidades para cumprir sua missão. 
 <br><br><strong>Ações estratégicas:</strong>  Essa é a questão decisiva. Ações individuais tomadas pela empresa, 
 para desenvolver seu plano estratégico e alcançar sua missão estratégica. Isso é tudo para uma fusão e aquisição. Talvez uma forma de diversificar para novos mercados por meio da aquisição de um concorrente naquele espaço. Isso poderia ser também algo como alianças com vários parceiros. Pode ser também uma estratégia de desenvolvimento 
-de um novo produto. No caso da Apple que já conhecemos, apresentar o iPod como um novo produto no mercado.
+de um novo produto. No caso da Apple que já conhecemos, apresentar o iPod como um novo produto no mercado.<br><br>
+Então, em conjunto, esses três elementos ajudaram a definir a estratégica de negócio. A questão para nós, como estrategistas, é como nós avaliamos uma estratégia. Como avaliamos e analisamos se é uma boa estratégia ou uma má estratégia. E isso nos leva a ideia de análise estratégica. Isso é algo que realmente podemos analisar e avaliar.
 
