@@ -11,5 +11,7 @@ Estratégia é a sequencia de decisões de uma empresa que determina e revela se
 3 - Escopo, qual é o escopo do nosso negócio ? Qual é a abrangencia de negocio que a companhia deve buscar?<br>
 4 - Valores da empresa, qual é a contribuição que o negócio oferece aos seus acionistas, empregados e demais steakholders? 
 #### Um simples esquema estratégico:
-<center><img src="esq.png" ></centre>
+Temos um esquema simples que caracteriza a estrategia de uma empresa.
+<br><img src="esq.png" />
+<br><strong>Misão estratégica:</strong>
 
