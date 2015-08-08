@@ -13,7 +13,7 @@ Estratégia é a sequencia de decisões de uma empresa que determina e revela se
 #### Um simples esquema estratégico:
 Temos um esquema simples que caracteriza a estrategia de uma empresa.<br>
 <p align="center">
-  <img src"esq.png"/>
+  <img src="esq.png"/>
 </p>
 <br><strong>Misão estratégica:</strong>
 
